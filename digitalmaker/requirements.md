@@ -40,7 +40,8 @@ To achieve this badge you need to:
 	* Design a sequence of a game, like a whole level or in-game puzzle.
 4. Design a single page website. You can use a design tool but writing HTML code would be fine too.
 5. Create a set of instructions for a programmable TOT, turtle or toy to follow.
-Note
+
+###Note
 Pseudo code is an instruction for the computer to follow, but is not written in a specific language.
 You can use any hardware and/or operating system available to you provided it is capable of the functionality needed to complete these requirements. You could use different hardware or operating systems for different parts of this badge if you wish.
  
