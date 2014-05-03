@@ -13,7 +13,7 @@
 
 ##Play a folk game 
 
-Folk games are games that can be played with minimal equipment, aren't too legally or morally questionable to give away for free, and … well, they're not being transmitted orally here, but they could be in the future, and they mostly have been in the past.  for instance lemon joust, dodge the chair or human knot. What was your favourite playground game as a kid?
+Folk games are games that can be played with minimal equipment, aren't too legally or morally questionable to give away for free, and they mostly have been transmitted by word of mouth, for instance lemon joust, dodge the chair or human knot. What was your favourite playground game as a kid?
 
 ###How to play Lemon Joust 
 
@@ -41,7 +41,9 @@ After playing a folk game ask the group if the game was fun and why, if they kno
 
 Divide the group into smaller groups, each group invents a game and acts it out
 
-##Make a paper prototype
+##Make a paper prototype 
+
+To be done individually, and can be completed at home if necessary.
 
 Using paper, prototype a game and explain to someone how it works. You could video this explanation.
 

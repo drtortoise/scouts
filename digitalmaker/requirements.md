@@ -21,8 +21,7 @@ game.
 	* Using paper, prototype a game and explain to someone how it works. You could video this
 explanation.
 	* Evaluate and share what you created.
-3. Edit an existing website, for example by changing the design using a paper print out. You could
-use software such as Mozilla’s Thimble or “Hackasarus”.
+3. Edit an existing website, for example by changing the design using a paper print out. You could use software such as Mozilla’s Thimble or Xray Goggles.
 4. Play a game with a friend where one of your acts the part of a robot and the other a user.
 Record on paper what sort of commands worked best, and which were hard for the “robot” to follow.
  
@@ -32,7 +31,7 @@ You can use any hardware and/or operating system available to you provided it is
 ##Digital Maker – Stage 2
 To achieve this badge you need to:
  
-1. Connect two devices and exchange data between them via wireless, bluetooth or a cable.
+1. Connect two devices and exchange data between them via wireless, bluetooth or a cable.77
 2. Show that you can use two different platforms or operating systems.
 3. Game Design:
 	* Make a cartoon, animation or video of a game using a video camera or other tool.

@@ -20,9 +20,11 @@ Free resources for learning programming (aimed at adults)
 * codecademy
 * udacity
 * harvard x
+* learning creative learning
 
 Hardware
 
 * Raspberry pi
 * arduino
 * lilypad
+* circuit stickers
