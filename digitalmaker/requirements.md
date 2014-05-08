@@ -16,12 +16,10 @@ To achieve this badge you need to:
  
 1. Connect computer peripherals or accessories, such as a screen and keyboard, and explain what job they do.
 2. Game design:
-	* With a group of friends “pretend to be the game” by acting out how someone might play a
-game.
-	* Using paper, prototype a game and explain to someone how it works. You could video this
-explanation.
+	* With a group of friends “pretend to be the game” by acting out how someone might play a game.
+	* Using paper, prototype a game and explain to someone how it works. You could video this explanation.
 	* Evaluate and share what you created.
-3. Edit an existing website, for example by changing the design using a paper print out. You could use software such as Mozilla’s Thimble or Xray Goggles.
+3. Edit an existing website, for example by changing the design using a paper print out. You could use software such as Mozilla’s Thimble or X-Ray Goggles.
 4. Play a game with a friend where one of your acts the part of a robot and the other a user.
 Record on paper what sort of commands worked best, and which were hard for the “robot” to follow.
  
