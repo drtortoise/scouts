@@ -19,13 +19,13 @@ A markup language means that it is used to describe what things are. Even though
 
 ##Human Tag Puzzle
 
-* Prepare sets of tags on post-it notes. Include all of the tags that would be found in the structure of a standard web page (check out the example at http://www.w3schools.com/html/html_intro.asp). Each post-it should include only one tag, like "<p>" with the related closing tag (say, "</p>") appearing on another post-it.
+* Prepare sets of tags on post-it notes. Include all of the tags that would be found in the structure of a standard web page (check out the example at http://www.w3schools.com/html/html_intro.asp). Each post-it should include only one tag, like `<p>` with the related closing tag (say, `</p>`) appearing on another post-it.
 
 * Randomly assign post-its to participants. Everyone should get one tag.
 
-* Ask participants to find the person who has the tag corresponding to their own. This means that the person holding "<p>" should find the person holding "</p>", the person holding "<h1>" should find the person with "</h1>", and so on.
+* Ask participants to find the person who has the tag corresponding to their own. This means that the person holding `<p>` should find the person holding `</p>`, the person holding `<h1>` should find the person with `</h1>`, and so on.
 
-Once participants have found their tag partners, ask them to have a brief chat about the possible meanings of their tags. What might "<h1>" do or mean? What purpose might "<body>" serve?
+Once participants have found their tag partners, ask them to have a brief chat about the possible meanings of their tags. What might `<h1>` do or mean? What purpose might `<body>` serve?
 
 Now that we know a little bit about tags, we can start editing some web pages.
 
