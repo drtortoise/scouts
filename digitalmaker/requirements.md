@@ -29,7 +29,7 @@ You can use any hardware and/or operating system available to you provided it is
 ##Digital Maker – Stage 2
 To achieve this badge you need to:
  
-1. Connect two devices and exchange data between them via wireless, bluetooth or a cable.77
+1. Connect two devices and exchange data between them via wireless, bluetooth or a cable.
 2. Show that you can use two different platforms or operating systems.
 3. Game Design:
 	* Make a cartoon, animation or video of a game using a video camera or other tool.
