@@ -8,6 +8,7 @@ Further resources
 	* [Mozilla Thimble](https://thimble.webmaker.org/)
 	* [X-ray Goggles](https://goggles.webmaker.org/)
 * [google web server for the raspberry pi](http://googlecreativelab.github.io/coder/)
+* [Sylvia's super awesome maker show](http://sylviashow.com/)
 
 ###Free resources for learning programming (aimed at kids)
 
