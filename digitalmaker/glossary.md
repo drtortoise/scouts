@@ -1,8 +1,6 @@
 glossary
 ======
 
-What does "digital maker" mean?
-
 ##bluetooth
 Bluetooth is a protocol for wireless communication. Devices such as mobile phones, laptops, PCs, printers, digital cameras and video game consoles can connect to each other, and exchange information. This is done using radio waves. Bluetooth is only used for relatively short distances, like a few metres.
 
@@ -20,12 +18,10 @@ There are three different types of peripherals:
 A database is a system for storing and taking care of data (any kind of information).
 
 ##event condition
-(your game reacts to something that happens)
+When a certain thing happens, a rule is invoked (your game reacts to something that happens)
 
 ##game design
 Game design refers to the idea/concept/story and gameplay of gameplay (not just the graphic design)
-
-Game design is the design of games. It is the art of elaborating rules to facilitate interaction between players, for playful, educating or simulation purposes. 
 
 #hardware 
 computer hardware are the parts of a machine that can be seen and touched. Some examples include processor, memory, motherboard, graphics card, network card, modem, USB flash drive, hard drive.
@@ -60,8 +56,7 @@ A Live DVD is a special way of creating a computer operating system so that it i
 [Thimble](https://thimble.webmaker.org/) is a free, open tool for making, hosting and sharing your own web pages. You can write and edit HTML and CSS right in the browser.
 
 ##open source
-operating system / platform 
- alternative operating system
+Open source means anyone can see how the source code works and can change it if they want to make it work differently.
 
 ##programmable tot / turtle / toy to follow
 in the Logo programming language, children where introduced to programming using a turtle that they could give instructions to, like "forward(10)" to move forward 10 steps. Robot turtles were also made and very popular. The Lego Mindstorm robot is based on the Logo Turtle.
@@ -83,7 +78,6 @@ Troubleshooting is the process of diagnosing the source of a problem. It is used
 
 ##USB stick
 A USB flash drive (USB stands for Universal Serial Bus) is a popular way to store digital information. Flash drives are an easy way to share data (information). They are used with devices found in homes, workplaces and schools (like computers, dvd players, video game consoles, music players, digital picture frames etc). They are called "Flash drive" because they use flash memory to store files.
-
 
 ##robot
 A programmable machine. You probably know a few human-like robots from science fictions movies. But most robots look nothing like humans. A lot of them do work in factories. Some, like the Mars Rover, explore space.
